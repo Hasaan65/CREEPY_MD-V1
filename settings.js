@@ -6,9 +6,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "255697608274"
-global.ownername = "𝐷𝛥𝛮𝛮𝑌"
-global.ownernumber = '255697608274'  //owner number 2
+global.ownernomer = "923126675673"
+global.ownername = "HASAAN"
+global.ownernumber = '923126675673'  //owner number 2
 //put your phone number above
 //let the owner as Danny or you can just put your name
 
@@ -21,7 +21,7 @@ global.autoRecording = false //auto recording
 global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti91 = false //auto block +91 
 global.autoswview = true //auto view status/story
 global.antilink = true; // Default: disabled
@@ -56,7 +56,7 @@ global.mess = {
 global.ytname = "YT: https://www.youtube.com/@creepy_technology";
 global.socialm = "GitHub: https://github.com/DannyTech20";
 global.location = "Arusha/Tanzania";
-global.ownername = "𝐷𝛥𝛮𝛮𝑌";
+global.ownername = "HASAAN";
 global.botname = "CREEPY_MD-V1"; 
 
 // Sticker details
